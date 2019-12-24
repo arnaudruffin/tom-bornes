@@ -32,7 +32,7 @@ const map = new Map({
         new VectorLayer({
             source: new VectorSource({
                 format: new GeoJSON(),
-                url: 'https://raw.githubusercontent.com/arnaudruffin/tom-bornes/master/markers.json'
+                url: 'https://raw.githubusercontent.com/arnaudruffin/tom-bornes/master/first-collection.json'
             })
         }),
         new VectorLayer({

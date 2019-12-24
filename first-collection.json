@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1928867,
+          5.7270402
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190812_160709.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1922651,
+          5.7274272
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190812_161020.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1900278,
+          5.73117289972222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190812_162856.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1899646997222,
+          5.7304433
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190812_163042.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1907051,
+          5.7310736
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190812_163634.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1900280997222,
+          5.73376079972222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190812_164642.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1898754997222,
+          5.73326859972222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190812_165009.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1887140997222,
+          5.7346896
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190812_165713.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.188723,
+          5.73465739972222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190812_165722.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1935268,
+          5.73086439972222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190825_113554.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.191746,
+          5.72836
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20190922_111153.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1910207,
+          5.73284669972222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20191013_102406.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1908472,
+          5.73252649972222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20191013_123018.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1899495997222,
+          5.72609649972222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20191013_174833.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.19128,
+          5.7294183
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20191205_170941.jpg(11).jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1934769,
+          5.7309172
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20191217_180533.jpg"
+      }
+    }
+  ]
+}

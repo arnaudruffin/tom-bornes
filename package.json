@@ -1,0 +1,27 @@
+{
+  "name": "tom-markers",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/arnaudruffin/tom-bornes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build --out-dir docs --public-url . index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaudruffin/tom-bornes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnaudruffin/tom-bornes/issues"
+  },
+  "homepage": "https://github.com/arnaudruffin/tom-bornes#readme",
+  "dependencies": {
+    "ol": "^6.1.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}

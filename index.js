@@ -5,7 +5,9 @@ import OSM from 'ol/source/OSM';
 import Stamen from 'ol/source/Stamen';
 import {fromLonLat} from 'ol/proj';
 import {FullScreen} from 'ol/control';
-
+import GeoJSON from 'ol/format/GeoJSON';
+import VectorLayer from 'ol/layer/Vector';
+import VectorSource from 'ol/source/Vector';
 
 const map = new Map({
   target: 'map',
@@ -19,6 +21,12 @@ const map = new Map({
     new TileLayer({
       source: new Stamen({
         layer: 'terrain-labels'
+      })
+    }),
+    new VectorLayer({
+      source: new VectorSource({
+        format: new GeoJSON(),
+        url: './data/markers.json'
       })
     })
   ],

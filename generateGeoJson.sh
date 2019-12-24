@@ -8,7 +8,7 @@ for filename in $DIR/*jpg; do
   echo '{"type": "Feature", "geometry": {"type": "Point", "coordinates": [' >> $OUT
   latitude=$(exiftool -n -gpslatitude -T $filename)
   longitude=$(exiftool -n -gpslongitude -T $filename)
-  echo "$latitude , $longitude" >> $OUT
+  echo "$longitude , $latitude" >> $OUT
   echo '   ]}, "properties": {"prop0": "value0", "name" :  '>> $OUT
   echo " \"$base\"" >> $OUT
   echo ' }},' >> $OUT

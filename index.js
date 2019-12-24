@@ -13,14 +13,16 @@ import {Circle, Fill, Stroke, Style} from 'ol/style';
 import Icon from "ol/style/Icon";
 import {defaults as defaultControls, FullScreen} from 'ol/control';
 import {defaults as defaultInteractions, DragRotateAndZoom} from 'ol/interaction';
+import Rotate from "ol/control/Rotate";
 
 const source = new VectorSource();
 
 const map = new Map({
     target: 'map',
-    controls: defaultControls().extend([
+    /*controls: defaultControls().extend([
         new FullScreen()
-    ]),
+    ]),*/
+    controls: [new FullScreen(),new Rotate()],
     interactions: defaultInteractions().extend([
         new DragRotateAndZoom()
     ]),
@@ -90,7 +92,6 @@ iconFeature.setStyle(imageStyle);
 
 
 navigator.geolocation.watchPosition(function (pos) {
-    console.log("new position")
     const coords = [pos.coords.longitude, pos.coords.latitude];
     const accuracy = circular(coords, pos.coords.accuracy);
     source.clear(true);
@@ -101,7 +102,7 @@ navigator.geolocation.watchPosition(function (pos) {
         rainfall: 500,
         style: geolocStyle
     });
-    centerFeature.setStyle(geolocStyle)
+    centerFeature.setStyle(geolocStyle);
     source.addFeatures([
         new Feature(accuracy.transform('EPSG:4326', map.getView().getProjection())),
         centerFeature

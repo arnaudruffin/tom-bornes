@@ -58088,12 +58088,18 @@ var _control = require("ol/control");
 
 var _interaction = require("ol/interaction");
 
+var _Rotate = _interopRequireDefault(require("ol/control/Rotate"));
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var source = new _Vector2.default();
 var map = new _ol2.Map({
   target: 'map',
-  controls: (0, _control.defaults)().extend([new _control.FullScreen()]),
+
+  /*controls: defaultControls().extend([
+      new FullScreen()
+  ]),*/
+  controls: [new _control.FullScreen(), new _Rotate.default()],
   interactions: (0, _interaction.defaults)().extend([new _interaction.DragRotateAndZoom()]),
   layers: [new _Tile.default({
     source: new _Stamen.default({
@@ -58148,7 +58154,6 @@ var geolocStyle = new _style.Style({
 });
 iconFeature.setStyle(imageStyle);
 navigator.geolocation.watchPosition(function (pos) {
-  console.log("new position");
   var coords = [pos.coords.longitude, pos.coords.latitude];
   var accuracy = (0, _Polygon.circular)(coords, pos.coords.accuracy);
   source.clear(true);
@@ -58166,7 +58171,7 @@ navigator.geolocation.watchPosition(function (pos) {
 }, {
   enableHighAccuracy: true
 });
-},{"ol/ol.css":"node_modules/ol/ol.css","ol":"node_modules/ol/index.js","ol/layer/Tile":"node_modules/ol/layer/Tile.js","ol/source/Stamen":"node_modules/ol/source/Stamen.js","ol/proj":"node_modules/ol/proj.js","ol/format/GeoJSON":"node_modules/ol/format/GeoJSON.js","ol/layer/Vector":"node_modules/ol/layer/Vector.js","ol/source/Vector":"node_modules/ol/source/Vector.js","ol/Feature":"node_modules/ol/Feature.js","ol/geom/Polygon":"node_modules/ol/geom/Polygon.js","ol/geom/Point":"node_modules/ol/geom/Point.js","ol/style":"node_modules/ol/style.js","ol/style/Icon":"node_modules/ol/style/Icon.js","ol/control":"node_modules/ol/control.js","ol/interaction":"node_modules/ol/interaction.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"ol/ol.css":"node_modules/ol/ol.css","ol":"node_modules/ol/index.js","ol/layer/Tile":"node_modules/ol/layer/Tile.js","ol/source/Stamen":"node_modules/ol/source/Stamen.js","ol/proj":"node_modules/ol/proj.js","ol/format/GeoJSON":"node_modules/ol/format/GeoJSON.js","ol/layer/Vector":"node_modules/ol/layer/Vector.js","ol/source/Vector":"node_modules/ol/source/Vector.js","ol/Feature":"node_modules/ol/Feature.js","ol/geom/Polygon":"node_modules/ol/geom/Polygon.js","ol/geom/Point":"node_modules/ol/geom/Point.js","ol/style":"node_modules/ol/style.js","ol/style/Icon":"node_modules/ol/style/Icon.js","ol/control":"node_modules/ol/control.js","ol/interaction":"node_modules/ol/interaction.js","ol/control/Rotate":"node_modules/ol/control/Rotate.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -58194,7 +58199,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50266" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51804" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

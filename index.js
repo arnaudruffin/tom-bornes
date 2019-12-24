@@ -3,21 +3,27 @@ import {Map, View} from 'ol';
 import TileLayer from 'ol/layer/Tile';
 import Stamen from 'ol/source/Stamen';
 import {fromLonLat} from 'ol/proj';
-import {FullScreen} from 'ol/control';
 import GeoJSON from 'ol/format/GeoJSON';
 import VectorLayer from 'ol/layer/Vector';
 import VectorSource from 'ol/source/Vector';
 import Feature from 'ol/Feature';
 import {circular} from 'ol/geom/Polygon';
 import Point from 'ol/geom/Point';
-import {Fill, Stroke, Circle, Style} from 'ol/style';
+import {Circle, Fill, Stroke, Style} from 'ol/style';
 import Icon from "ol/style/Icon";
+import {defaults as defaultControls, FullScreen} from 'ol/control';
+import {defaults as defaultInteractions, DragRotateAndZoom} from 'ol/interaction';
 
 const source = new VectorSource();
 
 const map = new Map({
     target: 'map',
-    controls: [new FullScreen()],
+    controls: defaultControls().extend([
+        new FullScreen()
+    ]),
+    interactions: defaultInteractions().extend([
+        new DragRotateAndZoom()
+    ]),
     layers: [
         new TileLayer({
             source: new Stamen({
@@ -41,7 +47,8 @@ const map = new Map({
     ],
     view: new View({
         center: fromLonLat([5.727616, 45.192057]),
-        zoom: 16
+        zoom: 16,
+        rotation: -Math.PI / 8,
     })
 });
 
@@ -62,7 +69,7 @@ var imageStyle = new Style({
     })
 });
 
-const geoFill =  new Fill({
+const geoFill = new Fill({
     color: 'rgba(125,2,255,0.4)'
 });
 

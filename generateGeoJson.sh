@@ -1,5 +1,5 @@
 #!/bin/bash
-DIR=$HOME/Downloads/bornes/
+DIR=$HOME/Dropbox/BornesTom
 OUT=generated-markers.json
 
 echo '{"type": "FeatureCollection","features": [' > $OUT

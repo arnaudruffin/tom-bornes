@@ -224,6 +224,34 @@
         "prop0": "value0",
         "name": "20191217_180533.jpg"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7278102,
+          45.1908268
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20200101_110752.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7254959,
+          45.1897005
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20200101_111645.jpg"
+      }
     }
   ]
 }

@@ -336,6 +336,62 @@
         "prop0": "value0",
         "name": "20200101_175228.jpg"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7248767,
+          45.1923016
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20200102_091051.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.727655,
+          45.192411
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20200102_172749.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72784549972222,
+          45.1903532997222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20200102_173919.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72470419972222,
+          45.1918424997222
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20200102_174440.jpg"
+      }
     }
   ]
 }

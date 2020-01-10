@@ -1,0 +1,1157 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.732540,45.193704,212.75 ]
+    },
+    "properties": {
+    "Description":"1 rue Hauquelin",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-25",
+    "Commentaires":"Repere situe a 77,8 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.732037,45.188614,212.73 ]
+    },
+    "properties": {
+    "Description":"12 place de Verdun ? Sur la facade de la Prefecture",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-48",
+    "Commentaires":"Repere situe a 62,4 cm du sol. Une partie des ecritures effacee. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.727410,45.194350,212.39 ]
+    },
+    "properties": {
+    "Description":"12 quai Perriere",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-19",
+    "Commentaires":"Repere rouille mais en bon etat situe a 73,2 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.731203,45.186176,212.75 ]
+    },
+    "properties": {
+    "Description":"14 rue Fantin Latour ? Intersection avec la rue Champollion",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-6",
+    "Commentaires":"Repere situe a 39,5 cm du sol. Repere tres rouille. Une partie des ecritures illisible."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.731108,45.190135,212.72 ]
+    },
+    "properties": {
+    "Description":"14 rue Voltaire",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-34",
+    "Commentaires":"Repere rouille situe a 121,3 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.726915,45.190663,212.71 ]
+    },
+    "properties": {
+    "Description":"17 place Grenette",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-36",
+    "Commentaires":"Repere rouille situe a 127,3 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.731523,45.188648,212.73 ]
+    },
+    "properties": {
+    "Description":"2 place de Verdun ? Sur la facade du tribunal administratif, pres de l?intersection avec la rue Lesdiguieres",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-37",
+    "Commentaires":"Repere situe a 56,1 cm du sol. Repere peint couleur kaki. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.728598,45.188168,214.552 ]
+    },
+    "properties": {
+    "Description":"2 place de l?Etoile ? Angle est avec la place Vaucanson",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-13",
+    "Commentaires":"Repere rouille situe a 34,1 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.735872,45.188889,212.7 ]
+    },
+    "properties": {
+    "Description":"2 rue Joseph Fourier sur la facade de l?eglise Protestante Reformee de Grenoble",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-12",
+    "Commentaires":"Repere rouille situe a 34,1 cm du sol. Une partie des ecritures effacees. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.731568,45.197272,213.01 ]
+    },
+    "properties": {
+    "Description":"2 rue Saint Laurent ? Sur la facade d?entree du musee du gant",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-2",
+    "Commentaires":"Repere situe a 146,8 cm du sol. Les ecritures commencent a etre illisibles."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.730813,45.196607,213 ]
+    },
+    "properties": {
+    "Description":"20 rue Saint Laurent ? Croisement avec la rue Andre Chevallier",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-1",
+    "Commentaires":"Repere situe a 124,5 cm du sol. Tague au milieu (Ad)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.732103,45.193308,212.73 ]
+    },
+    "properties": {
+    "Description":"3 rue Frederic Taulier",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-11",
+    "Commentaires":"Repere situe a 54,5 cm du sol. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.726553,45.193225,212.65 ]
+    },
+    "properties": {
+    "Description":"3ter quai Stephane Jay ? en face du telepherique",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-3",
+    "Commentaires":"Repere situe a 41,3 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.729219,45.195539,212.97 ]
+    },
+    "properties": {
+    "Description":"52 rue Saint Laurent",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-0",
+    "Commentaires":"Repere situe a 33,4 cm du sol. Une partie des ecritures illisible."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.726855,45.192935,212.485 ]
+    },
+    "properties": {
+    "Description":"6 bis rue Hector Berlioz",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-29",
+    "Commentaires":"Repere gris situe a 68,3 cm du sol. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.725185,45.193847,212.18 ]
+    },
+    "properties": {
+    "Description":"60 quai Perriere ? Croisement avec la rue Maurice Gignoux ? au pied de la montee du Rabot",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-33",
+    "Commentaires":"Repere rouille situe a 44,0 cm du sol. Plaque marquee 103 fixee au milieu du repere."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.728038,45.192032,212.72 ]
+    },
+    "properties": {
+    "Description":"7 place Sainte-Claire",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-24",
+    "Commentaires":"Repere rouille situe a 47,2 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.725555,45.189658,212.69 ]
+    },
+    "properties": {
+    "Description":"7 rue Felix Poulat ? Facade de l?eglise Saint-Louis",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-44",
+    "Commentaires":"Repere rouille situe a 68,0 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.727642,45.190400,212.71 ]
+    },
+    "properties": {
+    "Description":"8 rue Philis de la Charce ? Angle NW du croisement avec la rue Felix Poulat",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-45",
+    "Commentaires":"Repere rouille situe a 91,8 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.732972,45.192365,212.76 ]
+    },
+    "properties": {
+    "Description":"8 rue des Beaux Tailleurs ",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-41",
+    "Commentaires":"Repere recouvert de peinture et situe a 69,2 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.733188,45.191808,212.76 ]
+    },
+    "properties": {
+    "Description":"8bis rue Servan ? Angle avec la place du Temple",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-40",
+    "Commentaires":"Repere rouille situe a 103,9 cm du sol. Partie basse des ecritures effacee. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.733413,45.189481,212.73 ]
+    },
+    "properties": {
+    "Description":"9 place de Verdun ? Sur le pilier de l?entree du Musee-bibliotheque",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-50",
+    "Commentaires":"Repere rouille situe a 80,5 cm du sol. Plaque marquee 101 fixee au milieu du repere."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7255070,45.189692,212.458 ]
+    },
+    "properties": {
+    "Description":"Eglise St-Louis ? Rue Pere Marion ? Croisement avec la rue Moliere",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-7",
+    "Commentaires":"Repere rouille situe a 95,5 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.727148,45.192272,212.69 ]
+    },
+    "properties": {
+    "Description":"Jardin de ville ? Pres de l?entree de la place de Gordes",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-38",
+    "Commentaires":"Repere rouille situe a 67,4 cm du sol. Partie basse du texte usee et illisible. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.730252,45.190055,212.439 ]
+    },
+    "properties": {
+    "Description":"Lycee Stendhal ? rue Raoul Blanchard pres de l?intersection avec la rue Alphand",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-51",
+    "Commentaires":"Repere situe a 87,2 cm du sol. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.735954,45.188759,212.7 ]
+    },
+    "properties": {
+    "Description":"Place Bir-Hakeim ? Intersection avec la rue des Dauphins",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-21",
+    "Commentaires":"Repere situe a 67,1 cm du sol. Plateau superieur du repere tres abime. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.727730,45.192093,212.67 ]
+    },
+    "properties": {
+    "Description":"Place de Gordes angle NE",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-27",
+    "Commentaires":"Repere cache derriere un buisson au ras du sol du parterre de plantes. La surface est irreguliere et l?ecriture illisible. Hauteur 41,8cm du sol de la place."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.731633,45.193202,212.73 ]
+    },
+    "properties": {
+    "Description":"Rue Chenoise ? Croisement avec la place Notre-Dame",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-46",
+    "Commentaires":"Repere situe a 64,6 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.730893,45.193290,212.71 ]
+    },
+    "properties": {
+    "Description":"Rue Chenoise ? Croisement avec la rue du Pont Saint-Jaime",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-47",
+    "Commentaires":"Repere situe a 86,4 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.733521,45.187493,212.72 ]
+    },
+    "properties": {
+    "Description":"Rue Dolomieu ? facade de l?entree du Jardin des Fleurs",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-10",
+    "Commentaires":"Repere rouille situe a 29,1 cm du sol. Une partie des ecritures illisible. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.733632,45.189823,212.7 ]
+    },
+    "properties": {
+    "Description":"Rue Dominique Villars ? Croisement avec la rue Cornelie Gemond",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-22",
+    "Commentaires":"Repere situe a 71,7 cm du sol. Repere tague sur le dessus. Partie basse des ecritures illisible."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.732880,45.191045,212.75 ]
+    },
+    "properties": {
+    "Description":"Rue Dominique Villars ? Croisement avec la rue Servan, dans l?angle de la maison d?edition Glenat",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-39",
+    "Commentaires":"Repere situe a 68,7 cm du sol. Repere tres endommage : surface irreguliere recouverte de crepi blanc. Ecritures en grande partie effacees. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.735036,45.189030,212.71 ]
+    },
+    "properties": {
+    "Description":"Rue Eugene Faure ? intersection avec la rue Dominique Villars",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-31",
+    "Commentaires":"Repere situe a 53,2 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.731845,45.189774,212.73 ]
+    },
+    "properties": {
+    "Description":"Rue General de Beylie ? Croisement avec la rue Abbe de la Salle",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-16",
+    "Commentaires":"Il reste seulement un morceau de plaque rouille contre le mur a environ 30cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.732574,45.186943,212.72 ]
+    },
+    "properties": {
+    "Description":"Rue Haxo  ? Intersection avec la rue Champollion",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-20",
+    "Commentaires":"Repere situe a 67,9 cm du sol. Repere rouille. Une partie des ecritures illisible. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.735462,45.190086,212.68 ]
+    },
+    "properties": {
+    "Description":"Rue Hebert ? Angle SW de l?intersection avec la rue des Dauphins",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-28",
+    "Commentaires":"Repere situe a 69,5 cm du sol. Repere tague au milieu (SCT) et sur le dessus. Une partie des ecritures est effacee."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.728275,45.191630,212.7 ]
+    },
+    "properties": {
+    "Description":"Rue Jean-Jacques Rousseau ? Cote sud de l?intersection avec Grande Rue",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-8",
+    "Commentaires":"Repere rouille situe a 76,1 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.729380,45.191155,212.71 ]
+    },
+    "properties": {
+    "Description":"Rue Lafayette ? Angle NE de l?intersection avec la rue Jean-Jacques Rousseau",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-23",
+    "Commentaires":"Repere rouille, tres abime et situe a 23,3 cm du sol. Texte illisible a cause de l?usure."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.726610,45.191300,212.69 ]
+    },
+    "properties": {
+    "Description":"Rue Montorge ? Angle SE de l?intersection avec la rue Bressieux",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-17",
+    "Commentaires":"Repere rouille, use, situe a 63,8 cm du sol. Ecriture illisible."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.733493,45.192470,212.437 ]
+    },
+    "properties": {
+    "Description":"Rue Tres Cloitres ? Croisement avec la rue Servan",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-49",
+    "Commentaires":"Repere rouille situe a 134,0 cm du sol. Ecritures quasiment effacees. Cache derriere une gouttiere."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.725075,45.191670,212.68 ]
+    },
+    "properties": {
+    "Description":"Rue de Belgrade ? Angle NW de l?intersection avec l?avenue Felix Viallet",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-43",
+    "Commentaires":"Repere situe a 113,6 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.724970,45.192270,212.53 ]
+    },
+    "properties": {
+    "Description":"Rue de Belgrade ? Angle NW de l?intersection avec la rue Moidieu",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-4",
+    "Commentaires":"Repere rouille en etat correct situe a 60,7 cm du sol. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.729845,45.193553,212.79 ]
+    },
+    "properties": {
+    "Description":"Rue de Lionne ? Intersection avec la rue Madeleine ",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-42",
+    "Commentaires":"Repere situe a 29,0 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.730450,45.194380,212.79 ]
+    },
+    "properties": {
+    "Description":"Rue de Lorraine ? Intersection avec la rue Abel-Servien",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-30",
+    "Commentaires":"Repere situe a 86,6 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.732408,45.190812,212.74 ]
+    },
+    "properties": {
+    "Description":"Rue de la Paix ? Angle W avec la rue Voltaire ",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-26",
+    "Commentaires":"Repere rouille situe a 81,6 cm du sol. Tague sur le dessus."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.734603,45.192062,212.76 ]
+    },
+    "properties": {
+    "Description":"Rue des Tres Cloitres ? Croisement avec la rue de l?Alma angle W",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-9",
+    "Commentaires":"Repere ronge par la rouille dont les ecritures sont quasiment toutes effacees."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.731058,45.194428,212.73 ]
+    },
+    "properties": {
+    "Description":"Rue du Pont Saint-Jaime ? Croisement avec la place de Lavalette",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"NGF IGN 1969 (systeme normal)",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"Non renseigne",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-32",
+    "Commentaires":"Repere situe a 99,5 cm du sol."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.739784,45.192902 ]
+    },
+    "properties": {
+    "Description":"Rue du Souvenir ?  Entree du cimetiere cote est",
+    "Commune":"GRENOBLE",
+    "Code INSEE":38185,
+    "Hydrographies":"L' Isere",
+    "Expertise geolocalisation":"Valable",
+    "Nature du repere":"Plaque",
+    "Annee":1859,
+    "Mois":11,
+    "Jour":2,
+    "Maximum de l'inondation":"Oui",
+    "Systeme altimetrique (nivellement le plus recent)":"",
+    "Expertise du niveau atteint par l'eau (nivellement le plus recent)":"",
+    "Incertitude finale (nivellement le plus recent)":"",
+    "URL":"https://www.reperesdecrues.developpement-durable.gouv.fr/repere/2-novembre-1859-15",
+    "Commentaires":"Repere rouille situe a 150,6cm du sol."
+    }
+  }
+]
+}

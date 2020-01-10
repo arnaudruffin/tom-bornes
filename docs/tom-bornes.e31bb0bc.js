@@ -58771,13 +58771,13 @@ var map = new _ol2.Map({
     title: 'Découverte',
     source: new _Vector2.default({
       format: new _GeoJSON.default(),
-      url: 'https://dl.dropboxusercontent.com/s/n52tttex8c15mkk/first-collection.json?dl=0'
+      url: 'https://raw.githubusercontent.com/arnaudruffin/tom-bornes/master/collections/updated-collection.geojson'
     })
   }), new _Vector.default({
     title: 'officiel',
     source: new _Vector2.default({
       format: new _GeoJSON.default(),
-      url: 'https://raw.githubusercontent.com/arnaudruffin/tom-bornes/master/export-bornes-1859-site-gouv.geojson'
+      url: 'https://raw.githubusercontent.com/arnaudruffin/tom-bornes/master/collections/export-bornes-1859-site-gouv.geojson'
     }),
     visible: false,
     style: function style(feature) {
@@ -58845,7 +58845,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "54197" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "61100" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

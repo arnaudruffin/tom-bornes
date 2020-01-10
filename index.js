@@ -87,7 +87,7 @@ const map = new Map({
             title: 'Découverte',
             source: new VectorSource({
                 format: new GeoJSON(),
-                url: 'https://raw.githubusercontent.com/arnaudruffin/tom-bornes/master/updated-collection.geojson'
+                url: 'https://raw.githubusercontent.com/arnaudruffin/tom-bornes/master/collections/updated-collection.geojson'
             }),
 
         }),
@@ -95,7 +95,7 @@ const map = new Map({
             title: 'officiel',
             source: new VectorSource({
                 format: new GeoJSON(),
-                url: 'https://raw.githubusercontent.com/arnaudruffin/tom-bornes/master/export-bornes-1859-site-gouv.geojson'
+                url: 'https://raw.githubusercontent.com/arnaudruffin/tom-bornes/master/collections/export-bornes-1859-site-gouv.geojson'
             }),
             visible: false,
             style:function(feature) {

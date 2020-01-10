@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/arnaudruffin/tom-bornes#readme",
   "dependencies": {
-    "ol": "^6.1.1"
+    "ol": "^6.1.1",
+    "ol-layerswitcher": "^3.4.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"

@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7270402,
-          45.1928867
+          5.727031230926514,
+          45.19301244469812
         ]
       },
       "properties": {
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7274272,
-          45.1922651
+          5.727320909500122,
+          45.192033308363285
         ]
       },
       "properties": {
@@ -48,8 +48,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7304433,
-          45.1899646997222
+          5.730523467063904,
+          45.189999372871654
         ]
       },
       "properties": {
@@ -62,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7310736,
-          45.1907051
+          5.731161832809448,
+          45.190608048920595
         ]
       },
       "properties": {
@@ -76,8 +76,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.73376079972222,
-          45.1900280997222
+          5.733709931373596,
+          45.18996912792928
         ]
       },
       "properties": {
@@ -90,27 +90,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.73326859972222,
-          45.1898754997222
+          5.732712149620056,
+          45.189496548617214
         ]
       },
       "properties": {
         "prop0": "value0",
         "name": "20190812_165009.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7346896,
-          45.1887140997222
-        ]
-      },
-      "properties": {
-        "prop0": "value0",
-        "name": "20190812_165713.jpg"
       }
     },
     {
@@ -132,22 +118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.73086439972222,
-          45.1935268
-        ]
-      },
-      "properties": {
-        "prop0": "value0",
-        "name": "20190825_113554.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.72836,
-          45.191746
+          5.728329420089721,
+          45.19156074619024
         ]
       },
       "properties": {
@@ -188,8 +160,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.72609649972222,
-          45.1899495997222
+          5.725952982902527,
+          45.18987083175556
         ]
       },
       "properties": {
@@ -202,8 +174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7294183,
-          45.19128
+          5.729429125785828,
+          45.191243182205596
         ]
       },
       "properties": {
@@ -216,8 +188,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7309172,
-          45.1934769
+          5.730888247489929,
+          45.19349255558739
         ]
       },
       "properties": {
@@ -230,8 +202,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7278102,
-          45.1908268
+          5.72762131690979,
+          45.19077817460264
         ]
       },
       "properties": {
@@ -244,8 +216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7254959,
-          45.1897005
+          5.72562575340271,
+          45.18958728414949
         ]
       },
       "properties": {
@@ -258,8 +230,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7316174,
-          45.1931676
+          5.73161244392395,
+          45.193146649330934
         ]
       },
       "properties": {
@@ -272,8 +244,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.73200909972222,
-          45.1932465
+          5.732076466083527,
+          45.1932222574354
         ]
       },
       "properties": {
@@ -286,8 +258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.73331579972222,
-          45.1915821997222
+          5.733307600021362,
+          45.19166281995185
         ]
       },
       "properties": {
@@ -300,8 +272,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7324956,
-          45.1934265
+          5.732564628124236,
+          45.19349066539499
         ]
       },
       "properties": {
@@ -342,8 +314,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7248767,
-          45.1923016
+          5.724786221981049,
+          45.19229983169833
         ]
       },
       "properties": {
@@ -370,8 +342,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.72784549972222,
-          45.1903532997222
+          5.727691054344177,
+          45.19031316320045
         ]
       },
       "properties": {
@@ -384,13 +356,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.72470419972222,
-          45.1918424997222
+          5.724933743476868,
+          45.19181782049904
         ]
       },
       "properties": {
         "prop0": "value0",
         "name": "20200102_174440.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73,
+          45.1936111111111
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20200103_105317.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7316285,
+          45.1972589
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "20200103_111308.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.726639628410339,
+          45.19129232912864
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "name": "pharmacie"
       }
     }
   ]
